@@ -1,10 +1,9 @@
-# README.md
 ## Kernel Hackathon:
 
-## Contributions
+## OSS Contributions:
 
-## Pending:
+# Pending:
 
-The JIT kernel development guide does not currently acknowledge FlashInfer. This is listed as an open task in #17035.
+https://github.com/sgl-project/sglang/pull/20726 [Docs] Add FlashInfer acknowledgement to JIT kernel development guide
 
-## Merged:
+# Merged:
