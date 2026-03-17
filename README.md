@@ -1,6 +1,6 @@
 ## Kernel Hackathon:
 Ongoing: AMD x GPU MODE - E2E Model Speedrun
-Completed: Blackwell NVFP4 Kernel Hackathon
+\nCompleted: Blackwell NVFP4 Kernel Hackathon
 
 ## OSS Contributions:
 Pending:
