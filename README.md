@@ -6,5 +6,5 @@
 
 ## OSS Contributions:
 - **SGLang**:
-    - PR #20726 - FlashInfer acknowledgement to JIT kernel development guide  
+    - PR #20726 - FlashInfer acknowledgement to JIT kernel guide  
     - Status: Pending
