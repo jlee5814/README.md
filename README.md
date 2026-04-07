@@ -1,8 +1,8 @@
 ## Kernel Hackathon:
-- **Ongoing**:
-    - AMD E2E Model Speedrun  
+
 - **Completed**:
     - Blackwell NVFP4 Kernel Hackathon
+    - AMD E2E Model Speedrun  
 
 ## OSS Contributions:
 - **SGLang**:
