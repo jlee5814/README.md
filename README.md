@@ -1,8 +1,11 @@
 ## Kernel Hackathon:
 
+- **Ongoing**:
+    - OpenAI x GPUMODE Hackathon
+      
 - **Completed**:
-    - Blackwell NVFP4 Kernel Hackathon
-    - AMD E2E Model Speedrun  
+    - NVIDIA x GPUMODE Blackwell NVFP4 Kernel Hackathon
+    - AMD x GPUMODE E2E Model Speedrun Hackathon
 
 ## OSS Contributions:
 - **SGLang**:
